@@ -6,15 +6,14 @@
 <h3 align="center">Hi there 👋 I am Jacob!</h3>
 
 <p align="center")
-asdasdsad
+🎤 You can call me either Jacob or Juhyung <br>
+🔭 I’m currently looking for a job! <br>
+🌱 I’m currently learning Django REST Framework, infrastructure... and more! <br>
+🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!) <br>
+📫 How to reach me: jacob.juhyung.lee@gmail.com <br>
 </p>
-- 🎤 You can call me either Jacob or Juhyung
-- 🔭 I’m currently looking for a job!
-- 🌱 I’m currently learning Django REST Framework, infrastructure... and more!
-- 🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!)
-- 📫 How to reach me: jacob.juhyung.lee@gmail.com
 
-
+<br>
 <h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
 
