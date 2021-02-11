@@ -6,11 +6,7 @@
 <h3 align="center">Hi there 👋 I am Jacob!</h3>
 
 <p align="center")
-🎤 You can call me either Jacob or Juhyung <br>
-🔭 I’m currently looking for a job! <br>
-🌱 I’m currently learning Django REST Framework, infrastructure... and more! <br>
-🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!) <br>
-📫 How to reach me: jacob.juhyung.lee@gmail.com <br>
+I am a junior backend developer
 </p>
 
 <br>
