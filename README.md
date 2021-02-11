@@ -4,13 +4,14 @@
 
 
 <h2 align="center">Hi there 👋 I am Jacob!</h2>
-<div align=center)
+
+<p align=center)
 - 🎤 You can call me either Jacob or Juhyung
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning Django REST Framework, infrastructure... and more!
 - 🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!)
 - 📫 How to reach me: jacob.juhyung.lee@gmail.com
-</div>
+</p>
 <h2 align="center">Hi there 👋 I am Jacob! </h3>
 
 <h3 align="center">✨ Tech Stacks ✨ </h3>
