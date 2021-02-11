@@ -3,16 +3,17 @@
 <h2 align="center">Hi there 👋 I am Jacob!</h3>
 
 
-<h2 align="center">Hi there 👋 I am Jacob!</h2>
+<h3 align="center">Hi there 👋 I am Jacob!</h3>
 
-<p align=center)
+<p align="center")
+asdasdsad
+</p>
 - 🎤 You can call me either Jacob or Juhyung
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning Django REST Framework, infrastructure... and more!
 - 🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!)
 - 📫 How to reach me: jacob.juhyung.lee@gmail.com
-</p>
-<h2 align="center">Hi there 👋 I am Jacob! </h3>
+
 
 <h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
@@ -37,3 +38,4 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjacobjlee&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
+
