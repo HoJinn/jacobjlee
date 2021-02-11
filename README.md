@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&stext=Hi&nbsp;there&nbsp;👋&fontSize=90&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&text=Hi&nbsp;there&nbsp;👋&fontSize=90&fontAlignY=35)
 
 ## Hi there 👋 I am Jacob!
 - 🎤 You can call me either Jacob or Juhyung
