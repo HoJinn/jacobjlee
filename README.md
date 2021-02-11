@@ -16,7 +16,7 @@
 
 
 </p>
-<br>
+
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
 
 <br>
