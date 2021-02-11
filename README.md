@@ -33,9 +33,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=slack&logoColor=white"/>&nbsp;&nbsp;
 <br>
 </p>
-
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align=center>
+[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
+</div>
 <br>
 <div align=center>
 
