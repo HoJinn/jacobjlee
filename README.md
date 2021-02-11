@@ -33,11 +33,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=slack&logoColor=white"/>&nbsp;&nbsp;
 <br>
 </p>
-<div align=center>
-[![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
-</div>
 
 
+<h3 align="center">•••</h3>
 <div align=center>
 
 [![Blog](http://img.shields.io/badge/Blog-ff57722?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@jacoblee19)](https://velog.io/@jacoblee19) 
