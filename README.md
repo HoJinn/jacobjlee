@@ -10,15 +10,12 @@
 <br>
 <h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
-[![python](https://img.shields.io/badge/Python-3776AB)]
-[![python]( )]
-[![python]( )]
-[![python]( )]
-[![python]( )]
-[![python]( )]
-[![python]( )]
-[![python]( )]
+<p align="center">
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=or-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;
 
+
+</p>
 <br>
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
 
