@@ -12,7 +12,7 @@
 <br>
 <p align="center">
 <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Django-092E20?style=or-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/>&nbsp;&nbsp;
 
 
 </p>
