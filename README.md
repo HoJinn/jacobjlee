@@ -1,12 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&text=Hi&nbsp;there&nbsp;👋&fontSize=90&fontAlignY=35)
 
-<h2 align="center">Hi there 👋 I am Jacob!</h3>
-
-
 <h3 align="center">Hi there 👋 I am Jacob!</h3>
 
 <p align="center")
-I am a junior backend developer<br>
+I am a junior backend developer.<br>
+sssssss
 </p>
 
 <br>
