@@ -10,7 +10,16 @@
 <br>
 <h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
+[![python](https://img.shields.io/badge/Python-3776AB)]
+[![python]( )]
+[![python]( )]
+[![python]( )]
+[![python]( )]
+[![python]( )]
+[![python]( )]
+[![python]( )]
 
+<br>
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
 
 <br>
