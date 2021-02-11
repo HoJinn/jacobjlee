@@ -1,13 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&text=Hi&nbsp;there&nbsp;👋&fontSize=90&fontAlignY=35)
 
-## Hi there 👋 I am Jacob!
+<h2 align="center">Hi there 👋 I am Jacob!</h3>
+
+
+<h2 align="center">Hi there 👋 I am Jacob!</h2>
+<div align=center)
 - 🎤 You can call me either Jacob or Juhyung
 - 🔭 I’m currently looking for a job!
 - 🌱 I’m currently learning Django REST Framework, infrastructure... and more!
 - 🔖 You're welcome to be interested in my [blog](https://velog.io/@jacoblee19) (sorry, it is written in Korean!)
 - 📫 How to reach me: jacob.juhyung.lee@gmail.com
+</div>
+<h2 align="center">Hi there 👋 I am Jacob! </h3>
 
-
+<h3 align="center">✨ Tech Stacks ✨ </h3>
 <br>
 
 [![Jacob's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobjlee&show_icons=true&theme=cobalt)](https://github.com/jacobjlee)
