@@ -6,7 +6,7 @@
 <h3 align="center">Hi there 👋 I am Jacob!</h3>
 
 <p align="center")
-I am a junior backend developer
+I am a junior backend developer<br>
 </p>
 
 <br>
