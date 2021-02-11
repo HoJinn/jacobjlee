@@ -2,9 +2,9 @@
 
 <h3 align="center">Hi there 👋 I am Jacob!</h3>
 
-<p align="center")
-I am a junior backend developer.<br>
-sssssss
+<p align="center">
+👨‍💻 I am a junior backend developer.<br>
+✔️ currently looking for a job!
 </p>
 
 <br>
