@@ -49,6 +49,9 @@
  <a href="https://www.instagram.com/jacob.lee19/" target="blank">
   <img align="center" alt="Jacob's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
+ <a href="https://www.facebook.com/juhyung.lee.3914/" target="blank">
+  <img align="center" alt="Jacob's Facebook" width="30px" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" /> &nbsp; &nbsp;
+ </a>
 
   <br/>
 </p>
