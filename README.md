@@ -46,7 +46,7 @@
  <a href="https://www.instagram.com/jacob.lee19/" target="blank">
   <img align="center" alt="Jacob's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
  </a>
- <a href="https://velog.io/@jacobjlee19" target="blank">
+ <a href="https://velog.io/@jacoblee19" target="blank">
   <img align="center" alt="Jacob's Blog" width="30px" src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" /> &nbsp; &nbsp;
  </a>
   <br/>
