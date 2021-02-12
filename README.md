@@ -35,15 +35,21 @@
 </p>
 
 
-
-
 <div align="center">
-[![Blog](http://img.shields.io/badge/Blog-ff57722?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@jacoblee19)](https://velog.io/@jacoblee19) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-juhyung-lee-296a631b2/)](https://www.linkedin.com/in/jacob-juhyung-lee-296a631b2/) 
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/juhyung.lee.3914)](https://www.facebook.com/juhyung.lee.3914) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jacob.lee19/)](https://www.instagram.com/jacob.lee19/) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacob.juhyung.lee@gmail.com)](mailto:jacob.juhyung.lee@gmail.com)
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
+<p align="center">
+ <a href="https://www.linkedin.com/in/suntae-kim-a58572112/" target="blank">
+  <img align="center" alt="Ulfrid's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://www.instagram.com/def_andy/" target="blank">
+  <img align="center" alt="Andy's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
+ </a>
+ <a href="https://velog.io/@kst6294" target="blank">
+  <img align="center" alt="Andy's Blog" width="30px" src="https://www.vectorlogo.zone/logos/github/github-icon.svg" /> &nbsp; &nbsp;
+ </a>
+  <br/>
+</p>
 
 <br>
 
