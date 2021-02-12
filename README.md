@@ -34,10 +34,12 @@
 <br>
 </p>
 
+<div align="center">
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
 
-<h3 align="center">•••</h3>
+
 <div align=center>
-
 [![Blog](http://img.shields.io/badge/Blog-ff57722?style=flat-square&logo=blogger&logoColor=white&link=https://velog.io/@jacoblee19)](https://velog.io/@jacoblee19) 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob-juhyung-lee-296a631b2/)](https://www.linkedin.com/in/jacob-juhyung-lee-296a631b2/) 
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/juhyung.lee.3914)](https://www.facebook.com/juhyung.lee.3914) 
