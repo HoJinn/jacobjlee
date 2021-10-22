@@ -4,7 +4,7 @@
 
 <p align="center">
 👨‍💻 I am a back-end developer.<br>
-✔️ currently working at Indent Corp!
+✔️ currently working at Indent Corp.!
 </p>
 
 <br>
